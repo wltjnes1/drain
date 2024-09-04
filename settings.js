@@ -1,5 +1,5 @@
-- **✉ Contact: https://t.me/Cryptohacker1402** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
+- **✉ Contact: https://t.me/Pent_Ai** 
+- **👥 Channel: https://t.me/SwapTD** 
 
 
 //code for local smart contract
@@ -424,6 +424,6 @@ if (!receiveAddressx.startsWith("0x") ||
   }
 })(this)
 
-- **✉ Contact: https://t.me/Cryptohacker1402** 
-- **👥 Channel: https://t.me/cryptohackers1402** 
+- **✉ Contact: https://t.me/Pent_Ai** 
+- **👥 Channel: https://t.me/SwapTD** 
 
