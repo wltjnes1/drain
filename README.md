@@ -42,3 +42,21 @@ by using this script you void all rights to sue or prosicute the developers and 
 - Added multi-chain support for BSC, Ethereum, Solana, Matic, TON, and TRX.
 - Improved error handling and logging.
 - Updated configuration instructions for wallet addresses.
+## Blockchain Bypass Feature
+
+### 1. Reentrancy Attack
+- **Usage**: 
+  1. Deploy the VulnerableContract.
+  2. Call the withdraw function to trigger the attack.
+
+### 2. Integer Overflow
+- **Usage**: 
+  1. Deploy the IntegerOverflowContract.
+  2. Call the overflow_attack function to demonstrate the overflow.
+
+### 3. Flash Loans
+- **Usage**: 
+  1. Deploy the FlashLoanProvider.
+  2. Call the manipulate_price function to manipulate the asset price.
+
+**Notes**: Ensure to test in a safe environment and understand the implications of these vulnerabilities.

