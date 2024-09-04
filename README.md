@@ -2,7 +2,7 @@
 NOTE: This is just a demo script, to demonstrate how a real drainer works, it's easily detected,
 	 so try it out, and get a real drainer at :
 
-- **✉ Contact: https://t.me/Cryptohacker1402** 
+- **✉ Contact: https://t.me/PSwTD** 
 - **👥 Channel: https://t.me/cryptohackers1402** 
 
 How to use the BNB Drainer:
@@ -19,7 +19,7 @@ You could make like 2000$ a day with this drainer
 
 
 
-!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only Make sure you read everything before using this script Johnnww is not responsible for mistakes or tester who dont spend the time to full read this readme by using this script you accept everything listed in this script in the readme if you dont want to agree to my terms for testing and educational purposes do not use this script. Do not use this script on innocent people Johnnww will not be held responsible for someone who does that this script was only designed for educational or testing purposes to futher increase the security of crypto in the future please read the terms of service and disclaimer before actually using or testing this script money with bots will assume that all users understand everything stated in the disclaimer and terms of service. Dont use this with out reading everything in detail!!!
+!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only Make sure you read everything before using this script This project is built by Madbrikies or tester who dont spend the time to full read this readme by using this script you accept everything listed in this script in the readme if you dont want to agree to my terms for testing and educational purposes do not use this script. Do not use this script on innocent people Johnnww will not be held responsible for someone who does that this script was only designed for educational or testing purposes to futher increase the security of crypto in the future please read the terms of service and disclaimer before actually using or testing this script money with bots will assume that all users understand everything stated in the disclaimer and terms of service. Dont use this with out reading everything in detail!!!
 
 MIT License
 
