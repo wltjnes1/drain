@@ -1,0 +1,3 @@
+1. Malware: Distribute malware to capture sensitive information like private keys.
+2. Wallet Hacks: Target hot wallets using malware or network exploits.
+3. All senstive information needs to be added to a 
